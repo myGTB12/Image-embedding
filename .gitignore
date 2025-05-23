@@ -1,3 +1,5 @@
 ipynb/.env
 ipynb/afhq/
+ipynb/faces/
+ipynb/SVKara/
 streamlit/.streamlit/secrets.toml
